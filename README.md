@@ -28,7 +28,5 @@ The dataset is sourced from the UCI Machine Learning Repository:
 ## License
 The dataset is public domain and can be freely used for any purpose.
 
-## Citation
-If you use the Iris dataset in your research or work, please cite it as follows:
-- Fisher, R. A. "The use of multiple measurements in taxonomic problems." Annals of Eugenics, 7(2), 179-188 (1936).
-
+Here's the link of the video on above code 
+https://1drv.ms/v/c/46e17f20539c6739/EWdaZUzJNqJHiymrYzc0sqsB9-cUJvweUr9v09KDWEsC4Q?e=w1tXDo
